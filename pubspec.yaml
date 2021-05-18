@@ -10,7 +10,7 @@ environment:
 
 dependencies:
   fixnum: ^0.10.9
-  convert: ^2.0.2
+  convert: ^3.0.0
 
 dev_dependencies:
   test: ^1.0.0
